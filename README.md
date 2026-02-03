@@ -43,7 +43,7 @@ cd Java-Chat-Application
 • Set JDK 17 or higher
 ```
 ### 3. Run the Application
-``bash 
+```bash 
 
 • First run Server.java  
 • Then run Client.java  
@@ -52,12 +52,13 @@ cd Java-Chat-Application
 ---
 
 ## 🛠️ Tech Stack
-
 • Java
 • Java Swing
 • Socket Programming
 • IntelliJ IDEA / VS Code
+
  ---
+ 
 ## 👨‍💻 Author
 
 Niloy Avro Mondal
