@@ -47,21 +47,21 @@ cd Java-Chat-Application
 
 • First run Server.java  
 • Then run Client.java  
-• Start chatting 🎉
+• Start using
 ```
 ---
 
 ## 🛠️ Tech Stack
-• Java
-• Java Swing
-• Socket Programming
-• IntelliJ IDEA / VS Code
+• Java 
+• Java Swing 
+• Socket Programming 
+• IntelliJ IDEA / VS Code 
 
  ---
  
 ## 👨‍💻 Author
 
-Niloy Avro Mondal
+Niloy Avro Mondal 
 GitHub: @Niloy-Avro
 
 
