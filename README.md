@@ -10,7 +10,8 @@
 ---
 
 <p align="center">
-  <b>A simple and user-friendly Java-based Chat Application</b><br>for real-time communication.
+  <b>A simple and user-friendly Java-based Chat Application</b><br>
+Built for real-time communication using localhost.
 </p>
 
 ---
