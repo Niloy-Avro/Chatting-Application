@@ -1,0 +1,33 @@
+<h1 align="center">💬 Java Chat Application</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/Niloy-Avro/Java-Chat-Application?color=orange&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/Niloy-Avro/Java-Chat-Application?color=brightgreen&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GUI-Java%20Swing-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/repo-size/Niloy-Avro/Java-Chat-Application?color=purple&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <b>A simple and user-friendly Java-based Chat Application</b><br>for real-time communication.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1752bf&center=true&vCenter=true&width=600&lines=Java+%7C+Swing+%7C+Socket+Programming;Real-Time+Chat+Application&repeat=true" />
+</p>
+
+---
+
+## ✨ Features
+
+- 🔐 Client–Server based communication  
+- 💬 Real-time messaging  
+- 🖥️ Simple and clean GUI  
+- 📤 Send and receive text messages  
+- ⚡ Fast and lightweight  
+
+---
+
