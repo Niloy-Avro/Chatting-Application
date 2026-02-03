@@ -37,12 +37,33 @@
 git clone https://github.com/Niloy-Avro/Java-Chat-Application.git
 cd Java-Chat-Application
 ```
-###2. Open in IDE
-
-- Open project in IntelliJ IDEA or VS Code
-
-- Set JDK 17 or higher
+### 2. Open in IDE
+```bash
+• Open project in IntelliJ IDEA or VS Code
+• Set JDK 17 or higher
+```
 ### 3. Run the Application
+``bash
 • First run Server.java  
 • Then run Client.java  
 • Start chatting 🎉
+```
+---
+
+## 🛠️ Tech Stack
+
+• Java
+• Java Swing
+• Socket Programming
+• IntelliJ IDEA / VS Code
+ ---
+## 👨‍💻 Author
+
+Niloy Avro Mondal
+GitHub: @Niloy-Avro
+
+
+
+
+
+
