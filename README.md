@@ -41,7 +41,7 @@ cd Java-Chat-Application
 ### 2. Open in IDE
 ```bash
 • Open project in IntelliJ IDEA or VS Code
-• Set JDK 17 or higher
+• Set JDK
 ```
 ### 3. Run the Application
 ```bash 
