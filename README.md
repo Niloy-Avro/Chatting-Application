@@ -30,4 +30,19 @@
 - ⚡ Fast and lightweight  
 
 ---
+## 🚀 Getting Started
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Niloy-Avro/Java-Chat-Application.git
+cd Java-Chat-Application
+```
+###2. Open in IDE
+
+- Open project in IntelliJ IDEA or VS Code
+
+- Set JDK 17 or higher
+### 3. Run the Application
+• First run Server.java  
+• Then run Client.java  
+• Start chatting 🎉
