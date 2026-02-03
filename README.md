@@ -52,16 +52,16 @@ cd Java-Chat-Application
 ---
 
 ## 🛠️ Tech Stack
-• Java 
-• Java Swing 
-• Socket Programming 
-• IntelliJ IDEA / VS Code 
+• Java  
+• Java Swing  
+• Socket Programming  
+• IntelliJ IDEA / VS Code  
 
  ---
  
 ## 👨‍💻 Author
 
-Niloy Avro Mondal 
+Niloy Avro Mondal  
 GitHub: @Niloy-Avro
 
 
