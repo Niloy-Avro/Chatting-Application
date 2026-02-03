@@ -1,10 +1,10 @@
 <h1 align="center">💬 Java Chat Application</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/Niloy-Avro/Java-Chat-Application?color=orange&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/Niloy-Avro/Java-Chat-Application?color=brightgreen&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/languages/top/Niloy-Avro/Chatting-Application?color=orange&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/Niloy-Avro/Chatting-Application?color=brightgreen&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GUI-Java%20Swing-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/repo-size/Niloy-Avro/Java-Chat-Application?color=purple&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/repo-size/Niloy-Avro/Chatting-Application?color=purple&style=for-the-badge"/>
 </p>
 
 ---
