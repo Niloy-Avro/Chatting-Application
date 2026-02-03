@@ -46,7 +46,7 @@ cd Java-Chat-Application
 ### 3. Run the Application
 ```bash 
 
-• run Main.java  
+• Run Main.java  
 • Start using
 ```
 ---
