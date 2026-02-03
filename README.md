@@ -43,7 +43,8 @@ cd Java-Chat-Application
 • Set JDK 17 or higher
 ```
 ### 3. Run the Application
-``bash
+``bash 
+
 • First run Server.java  
 • Then run Client.java  
 • Start chatting 🎉
